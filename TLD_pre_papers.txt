@@ -1,3 +1,9 @@
 1. ESOD
 2. YOLO-TLA
 3. BGF-YOLOv10
+4. An Improved Network for Small Object Detection Based on YOLOv4-Tiny-3L
+5. Real-time object detection method based on improved YOLOv4-tiny 
+6. SPD‑YOLOv8: an small‑size object detection model of UAV imagery in complex scene
+7. Efficient-Lightweight YOLO: Improving Small Object Detection in YOLO for Aerial Images
+8. Efficient Small Object Detection You Only Look Once: A Small Object Detection Algorithm for Aerial Images
+9. I-YOLO: a novel single-stage framework for small object detection
