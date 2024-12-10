@@ -7,3 +7,8 @@
 7. Efficient-Lightweight YOLO: Improving Small Object Detection in YOLO for Aerial Images
 8. Efficient Small Object Detection You Only Look Once: A Small Object Detection Algorithm for Aerial Images
 9. I-YOLO: a novel single-stage framework for small object detection
+
+후보 전략 1.
+1. ESOD
+2. BGF-YOLOv10
+3. STC-YOLO
