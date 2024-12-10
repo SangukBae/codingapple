@@ -14,4 +14,6 @@
     ESPP
     SparseHead
 2. BGF-YOLOv10
+    GhostConv + C3Ghost
 3. STC-YOLO
+    C4STB
