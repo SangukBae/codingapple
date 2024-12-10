@@ -10,5 +10,8 @@
 
 후보 전략 1.
 1. ESOD
+    AdaSlicer
+    ESPP
+    SparseHead
 2. BGF-YOLOv10
 3. STC-YOLO
